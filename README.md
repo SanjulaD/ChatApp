@@ -1,5 +1,5 @@
 # ChatApp
-You can chat easily on two emulators IOS and Android
+You can chat easily on two emulators
 
  <h1 align="center">
   <a href="https://facebook.github.io/react-native/">
